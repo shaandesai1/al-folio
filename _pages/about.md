@@ -2,7 +2,10 @@
 layout: about
 permalink: /
 title: Shaan Desai
-description: bio 
+description:>
+  PhD Candidate in Machine Learning @Oxford
+  Thom Building, Parks Road, OX1 3PJ, United Kingdom
+  shaan@robots.ox.ac.uk
 profile:
   align: right
   image: tmp.jpg
