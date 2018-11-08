@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 3-Body Problem
-description:
-img: /assets/img/1.jpg
+redirect: https://github.com/shaandesai1/AM205-Numerical-Methods/blob/master/am205-final-project.pdf
+img: /assets/img/5.png
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
