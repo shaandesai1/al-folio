@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image
+title: Parallel Rayleigh Benard Convection
+description:
 img: /assets/img/2.jpg
 ---
 

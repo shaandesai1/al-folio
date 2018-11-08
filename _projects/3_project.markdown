@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 3
-description: a project that redirects to another website
+title: Inverse Functions using ML
+description:
 img:
 redirect: https://unsplash.com
 ---

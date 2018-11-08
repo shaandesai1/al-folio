@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 5
-description: a project with a background image
+title: 3-Body Problem
+description:
 img: /assets/img/1.jpg
 ---
 

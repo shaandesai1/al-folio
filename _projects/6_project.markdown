@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 6
-description: a project with no image
+title: Quantum Annealing Optimization
+description:
 img:
 ---
 
