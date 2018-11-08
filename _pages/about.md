@@ -2,16 +2,11 @@
 layout: about
 permalink: /
 title: Shaan Desai
-description: Bio
-
+description: bio 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>8th Floor, Thom Building</p>
-    <p>Parks Road</p>
-    <p>Oxford, OX1 3PJ</p>
-
+  image: tmp.jpg
+  
 news: true
 social: true
 ---
